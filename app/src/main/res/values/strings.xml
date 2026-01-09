@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pro Calculator</string>
+    <string name="history">History</string>
+    <string name="clear_history">Clear</string>
+    <string name="no_history">No history yet</string>
+    <string name="error">Error</string>
+</resources>
